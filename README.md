@@ -1,4 +1,4 @@
-STATISTIC ANALYSIS ON ONLINE SHOPPING DATA
+# STATISTIC ANALYSIS ON ONLINE SHOPPING DATA
 
 This report evaluates the data of an online shopping portal data. The report's dataset is taken from the year 2020. 
 The methods used to determine a relationship between the variables are linear regression, Pearson's Correlation, and 
